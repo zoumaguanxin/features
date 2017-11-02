@@ -1,6 +1,7 @@
 # Prerequisites
 *.d
-
+*.kdev4
+/build/
 # Compiled Object files
 *.slo
 *.lo
